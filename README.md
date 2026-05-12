@@ -18,5 +18,7 @@ This project is a high-accuracy diagnostic tool designed to assist healthcare pr
 ## 📊 How it Works
 The model was trained on the UCI Chronic Kidney Disease dataset. It evaluates features such as Hemoglobin, Blood Pressure, Serum Creatinine, and Albumin levels. Using the **K=5** nearest neighbors approach, it classifies a patient's risk based on the clinical profiles of similar cases in the historical database.
 
+## 📓 Technical Notebook
+The complete data science workflow—including exploratory data analysis (EDA), KNN imputation, and model evaluation—can be found in the [ckd.ipynb](./ckd.ipynb) notebook.
 ---
 *Created as a project for social impact in healthcare AI.*
