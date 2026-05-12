@@ -8,7 +8,7 @@ This project is a high-accuracy diagnostic tool designed to assist healthcare pr
 - **Precision Scaling:** Utilized **StandardScaler** to ensure unbiased distance calculations between diverse medical features.
 
 ## 🚀 Live Demo
-[Insert your Streamlit link here after you deploy]
+(https://ckd-early-detection-ai-model-lathikaramawickrema.streamlit.app)
 
 ## 🛠️ Tech Stack
 - **Languages:** Python
